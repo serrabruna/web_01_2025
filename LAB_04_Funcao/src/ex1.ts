@@ -1,0 +1,1 @@
+const palavraMaiuscula = (p: string = "olá") => p.toUpperCase;
